@@ -1,5 +1,5 @@
 # Alan
-**Description**: Alan is Payload's powerful serverside application. Alan handles everything from invoicing to payment notifications.  
+**Description**: Alan is Payload's powerful server-side application. Alan handles everything from invoicing to payment notifications.  
 
 Other things to include:
 - **Technology stack**: Alan is written in Javascript, runs on Nodejs, and stores all data in Postgresql.

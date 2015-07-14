@@ -1,11 +1,9 @@
 # Alan
-**Description**:  Put a meaningful, short, plain-language description of what this project is trying to accomplish and why it matters. Describe the problem(s) this project solves. Describe how this software can improve the lives of its audience.
+**Description**: Alan is Payload's powerful serverside application. Alan handles everything from invoicing to payment notifications.  
 
 Other things to include:
-- **Technology stack**: Alan is written in Javascript, runs on Nodejs, and
-- stores all data in Postgresql.
-- **Status**: Alan is under heavy development, and currently at 0.1.0-alpha
-- [CHANGELOG](CHANGELOG.md).
+- **Technology stack**: Alan is written in Javascript, runs on Nodejs, and stores all data in Postgresql.
+- **Status**: Alan is under heavy development, and currently at 0.1.0-alpha See [CHANGELOG](CHANGELOG.md).
 
 ## Dependencies
 Alan requires Nodejs for execution, and Postgresql for data storage. See [package.json](package.json) for npm dependecies.

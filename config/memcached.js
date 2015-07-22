@@ -5,3 +5,5 @@ var client = memjs.Client.create(config.memcached.host, {
   username: config.memcached.user,
   password: config.memcached.pass
 });
+
+module.exports = client;
